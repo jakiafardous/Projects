@@ -1,1 +1,3 @@
+## Smart Ultrasonic Radar for Object Detection and Safety Monitoring
 
+An Arduino-based ultrasonic radar system designed for real-time object detection, distance measurement, and safety monitoring. Using an HC-SR04 ultrasonic sensor mounted on a servo motor, the system scans the surrounding area and detects objects by measuring their distance and angular position. It provides visual alerts through three LEDs (Green, Yellow, and Red) and audible warnings through a buzzer based on predefined safety zones. A radar-style visual interface on a laptop displays detected objects along with their distance, angle, and detection status, enabling simple and effective real-time monitoring.
